@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"trigger_conditions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"trigger_conditions",
+  "parent":{
+    "name":"TRIGGER",
+    "path":"folders/TOOLS/TRIGGER.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

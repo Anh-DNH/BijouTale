@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"monster_takodachi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"monster_takodachi",
+  "parent":{
+    "name":"Takodachi",
+    "path":"folders/CHARACTERS/Monsters/Takodachi.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

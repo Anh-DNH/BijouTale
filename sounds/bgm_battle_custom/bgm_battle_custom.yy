@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_battle_custom",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":465.28665,
+  "name":"bgm_battle_custom",
+  "parent":{
+    "name":"Misc.",
+    "path":"folders/Misc..yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_battle_custom.ogg",
+  "type":1,
+  "volume":1.0,
+}

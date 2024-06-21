@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"localization",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"localization",
+  "parent":{
+    "name":"SYSTEM",
+    "path":"folders/SYSTEM.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

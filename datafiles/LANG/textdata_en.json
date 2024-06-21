@@ -1,0 +1,63 @@
+{
+    "ITEM" : "ITEM",
+    "STAT" : "STAT",
+    "CELL" : "CELL",
+
+    "USE"   : "USE",
+    "INFO"  : "INFO",
+    "DROP"  : "DROP",
+
+    "title_instruction" : "PRESS Z OR ENTER", 
+
+    //  --  --  MONSTER   --  --  //
+
+    //Takodachi
+    "takodachi_name" : "Takodachi",
+    "takodachi_diag_1" : "Happy Tako noises",
+
+    //  --  --  ITEM SECTION  --  --  //
+    "drop_item_def" : "<voice(TXT1)>* The {0} was<dnl()>thrown away.",
+    "max_hp" : "* Your HP was maxed out.",
+    "recovered_hp" : "* You recovered {0} HP!",
+
+    //Monster Candy
+    "item_1_name0" : "Monster Candy",
+    "item_1_name1" : "MnstrCndy",
+    "item_1_desc" : "<voice(TXT1)>* \"Monster Candy\" - Heals 10 HP<mononl()>* Has a distinct,<dnl()>non-licorice flavor.",
+    "item_1_use0" : "<voice(TXT1)>* You ate the Monster Candy.<mononl()>",
+    "item_1_use1" : "* Very un-licorice-like.<mononl()>",
+    "item_1_use2" : "* ... tastes like licorice<mononl()>",
+
+    //Spider Donut
+    "item_7_name0" : "Spider Donut",
+    "item_7_name1" : "SpidrDont",
+    "item_7_desc" : "<voice(TXT1)>* \"Spider Donut\" - Heals 12 HP<mononl()>* A donut made with Spider<dnl()>Cider in the batter.",
+    "item_7_use0" : "<voice(TXT1)>* You ate the Spider Donut.<mononl()>",
+    "item_7_use1" : "* Don't worry,<wait(1)> Spider didn't.<mononl()>",
+    
+    //Spider Cider
+    "item_10_name0" : "Spider Cider",
+    "item_10_name1" : "SpidrCidr",
+    "item_10_desc" : "<voice(TXT1)>* \"Spider Cider\" - Heals 24 HP<mononl()>* Made with whole spiders,<wait(0.5)><dnl()>not just the juice.",
+    "item_10_use0" : "<voice(TXT1)>* You drank the Spider Cider.<mononl()>",
+
+    //  --  --  WEAPON SECTION  --  --  //
+    "wpn_stick_name" : "Stick",
+    "wpn_stick_desc" : "<voice(TXT1)>* \"Stick\" - Weapon AT 0<mononl()>* Its bark is worse than<dnl()>its bite.",
+    "wpn_stick_use"  : "<voice(TXT1)>* You threw the stick away.<mononl()>* Then picked it back up.",
+
+    //  --  --  BATTLE   --  --  //
+    "battle_flee1" : "* I've got better to do",
+    "battle_flee2" : "* Escaped...",
+    "battle_flee3" : "* I'm outta here",
+    "battle_flee4" : "* Don't slow me down",
+
+    //  --  --  MONSTER   --  --  //
+
+    //Takodachi
+    "battle_narrator_takodachi1" : "* A Takodachi wanders near!",
+    "battle_narrator_takodachi2" : "* A bunch of Takodachis draw<dnl()>near!",
+    "battle_ACT_respond_tako1"   : "* TAKODACHI - ATK 4 DEF 3<mononl()>* Creature made from the void<dnl()>shall returns to the void",
+    "battle_ACT_respond_tako2"   : "* You pet the Takodachi<mononl()>* So cute!!!",
+    "battle_ACT_respond_tako3"   : "* You bonk the Takodachi<mononl()>* So naughty!!!",
+}
